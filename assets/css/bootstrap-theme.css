@@ -40,7 +40,13 @@
 
 .navbar-nav .dropdown-menu > .active > a,
 .navbar-nav .dropdown-menu > .active > a:focus { background: none; color:#fff;}
+
+
+
 /* CHANGES AROUND HERE */
+
+
+
 .navbar-nav .btn { border:1px solid rgba(255, 255, 255, .2); font-size: 20px; margin-left:5px; margin-top:5px; padding-top:10px; padding-bottom:10px; }
 
 .navbar-nav a.btn:focus, 
