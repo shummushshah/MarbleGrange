@@ -12,6 +12,10 @@
 		#head .btn-default.active { color:#fff; -webkit-box-shadow:inset 0px 0px 0px 3px #fff; -moz-box-shadow:inset 0px 0px 0px 3px #fff; box-shadow:inset 0px 0px 0px 3px #fff; background: transparent; }
 
 
+
+
+
+
 .bg-image {
   /* The image used */
   background-image: url("bg_header.jpg");
@@ -27,6 +31,20 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-color: rgba(0,0,0,0.5);
+}
+
+
+
+
+.bg-image1 {
+  /* The image used */
+  background-image: url("bg_header.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+
+
 }
 
 body, html {
