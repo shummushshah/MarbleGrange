@@ -196,6 +196,17 @@ row-gap: 25px;
           vertical-align: middle;
 }
 
+
+
+@media screen and (max-width: 600px) {
+  .grid-container {
+    grid-template-columns: 1fr;
+    column-gap: 20px;
+  }
+}
+
+
+
 .grid-item {
   background-color: lightgrey;
   border: 0.1px solid ;
